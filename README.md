@@ -2,8 +2,10 @@
 A script that converts strings or text files to base64 and vice versa.
 
 For Example: 
-ORIGINAL STRING : ceefoon
-BASE64 FORMAT: Y2VlZm9vbg==
+
+  ORIGINAL STRING : ceefoon
+  
+  BASE64 FORMAT: Y2VlZm9vbg==
 
 Hackers will appreciate.. LOOLL
 
